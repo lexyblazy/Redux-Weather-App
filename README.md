@@ -7,7 +7,7 @@
 > git clone https://github.com/lexyblazy/Redux-Weather-App.git
 > cd Redux-Weather-App
 > npm install
-> npm start
+> npm run dev
 
 ```
 
